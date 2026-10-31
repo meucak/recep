@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Monster Claw Easter Egg
+Comment=Toshi Desktop Easter Egg Claw
+Exec=/home/toshi/.local/bin/monster-claw
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
